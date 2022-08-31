@@ -1,6 +1,6 @@
 # alcool_ou_gasolina
 
-A new Flutter project.
+Apenas um aplicativo simples, para inserir o valor da gasolina e alcool é retornar qual compensa mais!!!
 
 ## Getting Started
 
